@@ -81,14 +81,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576409045545" />
-    <state x="590" y="116" key="CommitChangelistDialog2" timestamp="1576409031416">
+    <state x="590" y="116" key="CommitChangelistDialog2" timestamp="1576409132754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="590" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576409031416" />
+    <state x="590" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576409132754" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1576408887677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576408887677" />
+    <state x="734" y="224" key="VCS.ChangeListViewerDialog" timestamp="1576409159306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="224" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576409159306" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576409086655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -97,5 +101,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="750" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576409115900" />
+    <state x="777" y="384" key="git4idea.rebase.GitRebaseDialog" timestamp="1576409160135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="384" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576409160135" />
   </component>
 </project>
