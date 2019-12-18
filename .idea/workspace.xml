@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817b8560-eaa9-402a-8ff7-049a8ae4341b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/lamirandcyril/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lamirandcyril/model/Programme.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +49,34 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.lamirandcyril.model" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="com.lamirandcyril.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="com.lamirandcyril.Main" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="intellij-app-2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.lamirandcyril.Main" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.lamirandcyril.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -57,7 +99,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576408870122</updated>
-      <workItem from="1576408871685" duration="175000" />
+      <workItem from="1576408871685" duration="675000" />
+      <workItem from="1576667655864" duration="1292000" />
+      <workItem from="1576668968366" duration="1545000" />
+      <workItem from="1576671402863" duration="27519000" />
     </task>
     <task id="LOCAL-00001" summary="1.0.0">
       <created>1576409032030</created>
@@ -66,11 +111,61 @@
       <option name="project" value="LOCAL" />
       <updated>1576409032030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.0.0">
+      <created>1576409133344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576409133344</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.0.0">
+      <created>1576409208345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576409208345</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0.0" />
@@ -81,29 +176,99 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576409045545" />
-    <state x="590" y="116" key="CommitChangelistDialog2" timestamp="1576409132754">
+    <state x="755" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1576695862086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="590" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576409132754" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1576408887677">
+    <state x="755" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576695862086" />
+    <state x="210" y="299" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1576668527759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576408887677" />
+    <state x="210" y="299" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576668527759" />
+    <state x="739" y="172" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1576667678587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="172" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576667678587" />
+    <state x="590" y="116" key="CommitChangelistDialog2" timestamp="1576409207767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576409207767" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1576668945754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576668945754" />
+    <state x="836" y="413" width="254" height="214" key="Github.ShareDialog" timestamp="1576409341130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="413" width="254" height="214" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576409341130" />
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom" timestamp="1576705100767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576705100767" />
+    <state width="1877" height="220" key="GridCell.Tab.0.center" timestamp="1576705100767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576705100767" />
+    <state width="1877" height="220" key="GridCell.Tab.0.left" timestamp="1576705100767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576705100767" />
+    <state width="1877" height="220" key="GridCell.Tab.0.right" timestamp="1576705100767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576705100767" />
+    <state width="916" height="348" key="GridCell.Tab.1.bottom" timestamp="1576692281906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576692281906" />
+    <state width="916" height="348" key="GridCell.Tab.1.center" timestamp="1576692281906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576692281906" />
+    <state width="916" height="348" key="GridCell.Tab.1.left" timestamp="1576692281906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576692281906" />
+    <state width="916" height="348" key="GridCell.Tab.1.right" timestamp="1576692281906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576692281906" />
     <state x="734" y="224" key="VCS.ChangeListViewerDialog" timestamp="1576409159306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="734" y="224" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576409159306" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576409086655">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576409353373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576409086655" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576409353373" />
     <state x="750" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1576409115900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="750" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576409115900" />
+    <state x="750" y="311" key="git4idea.merge.GitPullDialog" timestamp="1576409386369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576409386369" />
     <state x="777" y="384" key="git4idea.rebase.GitRebaseDialog" timestamp="1576409160135">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="384" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576409160135" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576699804065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576699804065" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/com/lamirandcyril/Main.kt</url>
+          <line>10</line>
+          <properties class="com.lamirandcyril.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
