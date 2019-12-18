@@ -22,7 +22,7 @@ object Main {
             print("$value, ")
         }
 
-        println()
+        println() // Shame
 
         obj.showcmd()
 
@@ -110,7 +110,7 @@ object Main {
 
             when (existingAnimals) {
                 true -> {
-                    println("[PROGRAM] the ${txt3.toUpperCase()} say hello to you !")
+                    println("[ANIMAL] the ${txt3.toUpperCase()} say hello to you !")
                 }
                 false -> { println("[ERROR] No such animal in my petshop !") }
             }
@@ -119,3 +119,4 @@ object Main {
         else { println("[PROGRAM] Unexpected command...")}
     }
 }
+
